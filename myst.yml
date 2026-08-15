@@ -24,10 +24,8 @@ project:
   toc:
     - title: Introduction
       file: intro.md
-    - title: Getting Started
-      children:
-        - title: Interacting With Jupyter Books
-          file: shared_files_finpy/Interacting With Jupyter Books.md
+    - title: Interacting With Jupyter Books
+      file: shared_files_finpy/Interacting With Jupyter Books.md
     - title: 'Chapter One: 🏗️ From Data Infrastructure ➡️ Market Mechanics ⚙️'
       children:
         - title: ✨ Chapter Highlights
