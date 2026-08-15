@@ -1,7 +1,7 @@
 version: 1
 project:
   title: >-
-    "Futures Data And Mechanics""
+    "Futures Data And Mechanics"
   abstract: |
     Massive Data
   github: PatrickJHess/Derivatives-Futures-Chapter-One
