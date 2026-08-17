@@ -5,6 +5,9 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/interacting-with-jupyter-books</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/chapter-one-highlights</loc>
   </url>
   <url>
