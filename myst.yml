@@ -1,7 +1,7 @@
 version: 1
 project:
   title: >-
-    "Futures Data And Mechanics"
+    "Futures Data And Mechanics""
   abstract: |
     Massive Data
   github: PatrickJHess/Derivatives-Futures-Chapter-One
@@ -24,8 +24,10 @@ project:
   toc:
     - title: Introduction
       file: intro.md
-    - title: Interacting With Jupyter Books
-      file: shared_files_finpy/Interacting With Jupyter Books.md
+    - title: Getting Started
+      children:
+        - title: Interacting With Jupyter Books
+          file: shared_files_finpy/Interacting With Jupyter Books
     - title: 'Chapter One: 🏗️ From Data Infrastructure ➡️ Market Mechanics ⚙️'
       children:
         - title: ✨ Chapter Highlights
