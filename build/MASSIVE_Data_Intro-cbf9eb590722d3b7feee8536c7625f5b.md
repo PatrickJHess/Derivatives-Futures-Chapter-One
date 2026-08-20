@@ -28,6 +28,8 @@ To make accessing MASSIVE's data even faster and more intuitive, we built **`MAS
 ### **🌊 Data, Data Everywhere, But Not a Bit for Me**
 We live in an era of unprecedented access. Exabytes of real-time market quotes, historical dividends, and economic indicators float through the cloud every second. Yet, for many beginners trying to write their first lines of code, it feels like dying of thirst in the middle of the ocean: Data, data everywhere, but not a single usable bit for me.
 
+Why is it so hard to get a drink? Because between you and that ocean stands the Gatekeeper: the API Key.
+
 ---
 ### 🔑 The Basic Concept: What is an API Key?
 
