@@ -18,7 +18,7 @@
 
 This chapter is divided into five main sections:
 
-1. **🗄️ # ⚔️  Conquering the MASSIVE Data Infrastructure** (Descbries 🌐 MASSIVE: Institutional-Grade Market Data )
+1. **🗄️ # ⚔️  Conquering the MASSIVE Data Infrastructure** (Describes 🌐 MASSIVE: Institutional-Grade Market Data )
 
 2. **🔐 + 🚰 = 🚀 Unlocking the Mainline: Deploying the Data Pipeline** (Jupyter Notebook)
 
