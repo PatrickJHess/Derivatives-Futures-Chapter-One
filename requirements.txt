@@ -16,7 +16,7 @@ lxml
 html5lib
 # Ensure JupyterLab is installed
 jupyterlab
-
+pyarrow>=12.0.0
 # Extension to render MyST Markdown in JupyterLab
 jupyterlab-myst
 
