@@ -1,4 +1,4 @@
-## **Financial Python**
+# **Financial Python**
 
 ## **📚 Volume: Futures Markets**
 
@@ -13,3 +13,8 @@ In this two-part journey, we will build the engine and then immediately take it 
 
 **🔑 The Ultimate Goal:** You cannot mathematically price what you do not structurally understand. Together, these notebooks lay the critical foundation required for advanced quantitative analysis, preparing you to tackle Cost of Carry models, theoretical fair value, and futures arbitrage.
 
+:::{dropdown} 🪐 How to Interact with Jupyter Books (Click to Expand)
+:color: primary
+
+```{include} jupyter_instructions.md
+:::

@@ -9,7 +9,7 @@ project:
     2025 by the University of Virginia Darden School Foundation,
     Charlottesville, VA.
   authors:
-    - name: Financial Python
+    - name: ""
 
 
 #  exports:
@@ -24,10 +24,6 @@ project:
   toc:
     - title: Introduction
       file: intro.md
-    - title: Getting Started
-      children:
-        - title: Interacting With Jupyter Books
-          file: shared_files_finpy/Interacting With Jupyter Books
     - title: 'Chapter One: 🏗️ From Data Infrastructure ➡️ Market Mechanics ⚙️'
       children:
         - title: ✨ Chapter Highlights
