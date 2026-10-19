@@ -32,7 +32,7 @@ project:
           file: MASSIVE_Data_Intro.md
         - title: '🔐 + 🚰 = 🚀 Unlocking the Mainline: Deploying the Data Pipeline'
           file: notebooks/MASSIVE_DATA.ipynb
-        - title:'🎓 Mastering the Mechanics: Engineering the Anonymous Market''
+        - title:'🎓 Mastering the Mechanics: Engineering the Anonymous Market'
           file: notebooks/Future_Mechanics.ipynb
         - title: 📝 Chapter Summary
           file: Chapter_Summary.md
