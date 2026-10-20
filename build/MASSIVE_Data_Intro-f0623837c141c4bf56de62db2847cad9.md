@@ -6,9 +6,9 @@
 
 🛠️ **Core Offerings:**
 
-*   📈 **Comprehensive Stock & Futures Coverage:** Build robust, cross-asset strategies with a single provider. MASSIVE bridges the gap between equities and derivatives, offering unified, high-fidelity OHLCV (Open, High, Low, Close, Volume) data for both global stocks and highly-traded futures contracts.
-*   ⏱️ **Hyper-Granular Intraday Data:** When every second counts, MASSIVE delivers. Access meticulously timestamped intraday data, easily aggregated into standard minutes, 15-minute bars, hourly sessions, or custom timeframes. All intraday ticks are natively structured for seamless timezone localization, giving you a perfect view from the opening bell to the close.
-*   📅 **Deep Daily Historicals:** Zoom out to capture the macro trend. Pull decades of clean, timezone-naive daily, weekly, or monthly session data to fuel long-term predictive models and historical backtests without the fear of date-shifting bugs.
+*  **Comprehensive Stock & Futures Coverage:** Build robust, cross-asset strategies with a single provider. MASSIVE bridges the gap between equities and derivatives, offering unified, high-fidelity OHLCV (Open, High, Low, Close, Volume) data for both global stocks and highly-traded futures contracts.
+*   **Hyper-Granular Intraday Data:** When every second counts, MASSIVE delivers. Access meticulously timestamped intraday data, easily aggregated into standard minutes, 15-minute bars, hourly sessions, or custom timeframes. All intraday ticks are natively structured for seamless timezone localization, giving you a perfect view from the opening bell to the close.
+*   **Deep Daily Historicals:** Zoom out to capture the macro trend. Pull decades of clean, timezone-naive daily, weekly, or monthly session data to fuel long-term predictive models and historical backtests without the fear of date-shifting bugs.
 
 ---
 
@@ -18,10 +18,10 @@ To make accessing MASSIVE's data even faster and more intuitive, we built **`MAS
 
 ✨ **Key Features of the Reader:**
 
-*   💾 **Smart Local Caching:** Automatically saves fetched data to your local disk or Google Drive. When requesting new dates, it dynamically merges fresh API pulls with your existing local cache to minimize bandwidth and preserve your API limits.
-*   🌎 **Intelligent Timezone Handling:** Eliminates the headache of time-shifting bugs. It natively converts raw intraday timestamps to Wall Street time (EST/EDT) while strictly keeping daily/weekly session data timezone-naive.
-*   🚦 **Built-In Rate Protection:** Features a persistent API tracker that automatically monitors your call volume and seamlessly enforces cooldowns, protecting you from HTTP 429 errors and server lockouts.
-*   📊 **Unified Multi-Asset Interface:** Pull equities and futures through an identical, frictionless interface (`get_stock_data` and `get_futures_data`), complete with secure, one-line environment variable authentication.
+*   **Smart Local Caching:** Automatically saves fetched data to your local disk or Google Drive. When requesting new dates, it dynamically merges fresh API pulls with your existing local cache to minimize bandwidth and preserve your API limits.
+*   **Intelligent Timezone Handling:** Eliminates the headache of time-shifting bugs. It natively converts raw intraday timestamps to Wall Street time (EST/EDT) while strictly keeping daily/weekly session data timezone-naive.
+*   **Built-In Rate Protection:** Features a persistent API tracker that automatically monitors your call volume and seamlessly enforces cooldowns, protecting you from HTTP 429 errors and server lockouts.
+*  **Unified Multi-Asset Interface:** Pull equities and futures through an identical, frictionless interface (`get_stock_data` and `get_futures_data`), complete with secure, one-line environment variable authentication.
 
 ---
 
@@ -70,16 +70,15 @@ If you are new to coding with financial data, `MASSIVEReader` takes away the str
 ---
 
 
-Why is it so hard to get a drink? Because between you and that ocean stands the Gatekeeper: the API Key.
 
-### **🎫 Next Steps: Securing Your Digital Access Card**
+### 🎫 Next Steps: Securing Your Digital Access Card
 
 With a solid grasp of *why* authentication matters and how MASSIVEReader keeps your account safe, it is time to claim your personal credentials\!
 
 **Forget hunting across the internet for registration pages.** Simply launch the primary research file (`MASSIVE_DATA.ipynb`). Right at the top, you will find an interactive walkthrough that handles the heavy lifting for you:
 
-1. Setting up your own complimentary Massive profile.  
-2. Producing and capturing your unique access string.  
+1. Setting up your own complimentary Massive profile.
+2. Producing and capturing your unique access string.
 3. Automating the authentication process so your secret key stays hidden forever\!
 
 Dive into the notebook, grab your token, and let's begin fetching live markets.
