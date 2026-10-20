@@ -26,8 +26,8 @@ project:
       file: intro.md
     - title: 'Chapter One: 🏗️ From Data Infrastructure ➡️ Market Mechanics ⚙️'
       children:
-        - title: ✨ Chapter Highlights
-          file: Chapter_One_Highlights.md
+#        - title: ✨ Chapter Highlights
+#          file: Chapter_One_Highlights.md
         - title: ⚔️  Conquering the MASSIVE Data Infrastructure
           file: MASSIVE_Data_Intro.md
         - title: '🔐 + 🚰 = 🚀 Unlocking the Mainline: Deploying the Data Pipeline'
