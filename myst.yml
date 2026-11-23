@@ -44,7 +44,8 @@ project:
           url: https://patrickjhess.github.io/Derivatives-Futures-Chapter-Two/
         - title: 'Chapters Three: 📊 Synthetic Portfolios and Benchmark Risk Spanning'
           url: https://patrickjhess.github.io/Derivatives-Futures-Chapter-Three/
-
+        - title: 'Chapters Four: 📊 Fixed Income Futures'
+          url: https://patrickjhess.github.io/Derivatives-Futures-Chapter-Four/
   jupyter:
     binder:
       repo: PatrickJHess/Derivatives-Futures-Chapter-One
